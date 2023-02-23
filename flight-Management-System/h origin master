@@ -1,0 +1,15 @@
+warning: LF will be replaced by CRLF in .idea/workspace.xml.
+The file will have its original line endings in your working directory
+[1mdiff --git a/.idea/workspace.xml b/.idea/workspace.xml[m
+[1mindex 2d7139d..85d83c6 100644[m
+[1m--- a/.idea/workspace.xml[m
+[1m+++ b/.idea/workspace.xml[m
+[36m@@ -129,7 +129,7 @@[m
+     </panes>[m
+   </component>[m
+   <component name="PropertiesComponent">[m
+[31m-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586698075511" />[m
+[32m+[m[32m    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586698380548" />[m
+     <property name="extract.method.default.visibility" value="public" />[m
+     <property name="last_opened_file_path" value="$PROJECT_DIR$" />[m
+     <property name="project.structure.last.edited" value="Modules" />[m
